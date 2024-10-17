@@ -26,6 +26,7 @@ jobs:
         run: |
           choco install doxygen.portable graphviz --yes -r --no-progress
           doxygen Doxyfile
+          cp.exe -r img/ html/img/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

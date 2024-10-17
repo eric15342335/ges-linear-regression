@@ -4,11 +4,11 @@ This project provides a modular solution for analyzing and predicting salary tre
 
 ## Screenshots
 
-![qfin-mean-salary](./img/qfin_Mean%20Salary_salary_trend.png)
+![qfin-mean-salary](img/qfin_Mean%20Salary_salary_trend.png)
 
-![actuarsc-mean-salary](./img/actuarsc_Mean%20Salary_salary_trend.png)
+![actuarsc-mean-salary](img/actuarsc_Mean%20Salary_salary_trend.png)
 
-![cs-mean-salary](./img/cs_Mean%20Salary_salary_trend.png)
+![cs-mean-salary](img/cs_Mean%20Salary_salary_trend.png)
 
 ## Features
 
