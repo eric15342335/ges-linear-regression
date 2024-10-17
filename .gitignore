@@ -1,0 +1,16 @@
+# Salary report
+pdf/
+*.pdf
+
+# Python
+venv/
+*.pyc
+*.pyo
+**/__pycache__/
+
+# Temp & Misc files
+.vscode/
+*.zip
+
+# Doxygen
+html/
